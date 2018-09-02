@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\GeekBrains обучение\Основной курс\Основы ООП\Direct for repository\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\123\Desktop\GeekBrains обучение\Основной курс\Основы ООП\Direct for repository\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\123\Desktop\GeekBrains обучение\Основной курс\Основы ООП\Direct for repository\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\123\Desktop\GeekBrains обучение\Основной курс\Основы ООП\Direct for repository\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\GeekBrains обучение\Основной курс\Основы ООП\Direct for repository\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\123\Desktop\GeekBrains обучение\Основной курс\Основы ООП\Direct for repository\Snake\Snake\obj\Debug\Snake.pdb
